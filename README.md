@@ -276,6 +276,6 @@ Mechanical Engineering Graduate | CAD Design Engineer | Product Design Enthusias
 
 ## Final Note
 
-This project provided valuable hands-on experience in **mechanical design, CAD modeling, assembly management, engineering drawing preparation, and manufacturing documentation**. The **Shaper Tool Head** demonstrates the practical application of machine design principles, precision assembly techniques, and product development workflows using **SOLIDWORKS 2022**.
+This project provided valuable hands-on experience in mechanical design, CAD modeling, assembly management, engineering drawing preparation, and manufacturing documentation. The Shaper Tool Head demonstrates the practical application of machine design principles, precision assembly techniques, and product development workflows using SOLIDWORKS 2022.
 
 If you found this project helpful or interesting, consider giving the repository a ⭐ to support my work and explore more mechanical design projects.
